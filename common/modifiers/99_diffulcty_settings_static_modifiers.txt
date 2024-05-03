@@ -33,6 +33,8 @@ diff_hard_ai = {
 	air_fuel_consumption_factor = -0.25
  	navy_fuel_consumption_factor = -0.25
 	production_lack_of_resource_penalty_factor = -0.5
+
+	stability_weekly = 0.001
 	
 	political_power_gain = 0.5
 	political_power_factor = 0.5
@@ -45,6 +47,9 @@ diff_very_hard_ai = {
 	air_fuel_consumption_factor = -0.5
  	navy_fuel_consumption_factor = -0.5
 	production_lack_of_resource_penalty_factor = -0.8
+
+	stability_weekly = 0.001
+	war_support_weekly = 0.001
 
 	political_power_gain = 1.0 # Прирост политической власти 1
 	political_power_factor = 0.5
